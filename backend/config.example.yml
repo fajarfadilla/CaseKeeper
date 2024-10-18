@@ -1,0 +1,12 @@
+listen:
+  host: 127.0.0.1
+  port: 6969
+
+db:
+  db_name: dbname
+  username: username
+  password: yoursecret
+  host: 127.0.0.1
+  port: 5432
+  ssl_mode: disable
+
